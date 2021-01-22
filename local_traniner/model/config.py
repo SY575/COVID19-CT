@@ -1,0 +1,10 @@
+BATCH_SIZE = 4
+PROPOSAL_NUM = 6
+CAT_NUM = 6
+INPUT_SIZE = (448, 448)# (448, 448)  # (w, h)
+LR = 0.0008# 0.002
+WD = 1e-4
+SAVE_FREQ = 1
+resume = ''#'./20200223_152850/002.ckpt'
+test_model = 'model.ckpt'
+save_dir = './'
