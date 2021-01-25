@@ -15,4 +15,15 @@ where `DIR` includes a set CT JPEG images of one person.
 # Using your own dataset
 First, you should convert your CT images into `JPG` format.
 
-Then, run `/local_trainer/preprocess.py DIR` to preprocess the images.
+We recommand the following file structure:
+
+`
+DATASET_ROOT_DIR
+├── INPUT_DIR
+│   ├── Person 1
+│   ├── Person 2
+│   ├── ...
+│   ├── Person n
+`
+
+Then, run `/local_trainer/pre_cut_lung.py INPUT_DIR OUTPUT_DIR` to preprocess the images.
