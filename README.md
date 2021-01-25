@@ -18,10 +18,14 @@ First, you should convert your CT images into `JPG` format.
 We recommand the following file structure:
 
     DATASET_ROOT_DIR
-    ├── INPUT_DIR
-    │   ├── Person 1
-    │   ├── Person 2
-    │   ├── ...
-    │   ├── Person n
+    └── INPUT_DIR
+        ├── Person 1
+        |   ├── image_1
+        |   ├── image_2
+        |   ├── ...
+        |   └── image_n
+        ├── Person 2
+        ├── ...
+        └── Person m
 
 Then, run `/local_trainer/pre_cut_lung.py INPUT_DIR OUTPUT_DIR` to preprocess the images.
