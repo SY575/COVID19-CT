@@ -3,3 +3,6 @@ The source code of [*Deep learning enables accurate diagnosis of novel coronavir
 
 # Our platform
 [*COVID19-CT images diagnosis*](http://biomed.nscc-gz.cn:8901/dist/index.html#/user/modelList)
+
+# Pretrained model
+[*model.ckpt*](https://drive.google.com/file/d/1vGOnn_KPy9InVgGdymivurewcWIK5f0X/view?usp=sharing)
