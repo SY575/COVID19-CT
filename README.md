@@ -11,3 +11,8 @@ For local prediction, please download [*model.ckpt*](https://drive.google.com/fi
 python run.py DIR
 ```
 where `DIR` includes a set CT JPEG images of one person.
+
+# Using your own dataset
+First, you should convert your CT images into `JPG` format.
+
+Then, run `/local_trainer/preprocess.py DIR` to preprocess the images.
