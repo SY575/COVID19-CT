@@ -19,10 +19,15 @@ We recommand the following file structure:
 
 `
 DATASET_ROOT_DIR
+
 ├── INPUT_DIR
+
 │   ├── Person 1
+
 │   ├── Person 2
+
 │   ├── ...
+
 │   ├── Person n
 `
 
