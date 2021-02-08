@@ -10,7 +10,7 @@ I would like to suggest you to upload a group of CT images (for example, upload 
 ## Demo
 + Left: COVID-19 images. 
 + Middle: Non-COVID-19 images. Actually, these are CT images of bacterial pneumonia. 
-+ Right: Invalid image. At present, our server only serves specific hospitals. If you want to test CT images from other hospitals, please 
++ Right: Invalid image. At present, our server only serves specific hospitals. If you want to test CT images from other hospitals, please refer to **3. Using your own dataset**.
 
 # 2. Using pretrained model
 For local prediction, please download [*model.ckpt*](https://drive.google.com/file/d/1vGOnn_KPy9InVgGdymivurewcWIK5f0X/view?usp=sharing) and put it into dir /online_backend/, run:
