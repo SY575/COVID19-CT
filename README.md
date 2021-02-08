@@ -5,7 +5,7 @@ The source code of [*Deep learning enables accurate diagnosis of novel coronavir
 Please visit [*COVID19-CT images diagnosis*](http://biomed.nscc-gz.cn:8901/dist/index.html#/user/modelList).
 I would like to suggest you to upload a group of CT images (for example, upload 10 images) at once, and you will get a more accurate result.
 
-![IMG](./demo_for_our_server/demo/fig4.jpg)
+![IMG](./demo_for_our_server/demo/fig5.png)
 
 ## Demo
 + Left: COVID-19 images. 
